@@ -1,0 +1,15 @@
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\bin\Debug\net6.0\Example_001_HellowWorld.exe
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\bin\Debug\net6.0\Example_001_HellowWorld.deps.json
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\bin\Debug\net6.0\Example_001_HellowWorld.runtimeconfig.json
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\bin\Debug\net6.0\Example_001_HellowWorld.dll
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\bin\Debug\net6.0\Example_001_HellowWorld.pdb
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\obj\Debug\net6.0\Example_001_HellowWorld.csproj.AssemblyReference.cache
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\obj\Debug\net6.0\Example_001_HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\obj\Debug\net6.0\Example_001_HellowWorld.AssemblyInfoInputs.cache
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\obj\Debug\net6.0\Example_001_HellowWorld.AssemblyInfo.cs
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\obj\Debug\net6.0\Example_001_HellowWorld.csproj.CoreCompileInputs.cache
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\obj\Debug\net6.0\Example_001_HellowWorld.dll
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\obj\Debug\net6.0\refint\Example_001_HellowWorld.dll
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\obj\Debug\net6.0\Example_001_HellowWorld.pdb
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\obj\Debug\net6.0\Example_001_HellowWorld.genruntimeconfig.cache
+D:\Курсы\Лекции\Programming\Example\Example_001_HellowWorld\obj\Debug\net6.0\ref\Example_001_HellowWorld.dll
